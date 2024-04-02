@@ -16,4 +16,3 @@ brunch对内容做了一个简单区分，main和其他，main相当于我们最
 在brunch中进行修改之后，我们需要将brunch中的文件传递给main，这里用到了pull request请求，在pull request之后，我们就可以在main中的文件查看文件的历史修改记录，并且
 也可以回到某一个固定的时间节点的文件。
 
-$$\alpha$$
